@@ -1,10 +1,10 @@
-package: github.com/carrot/go-pinterest
-homepage: https://github.com/carrot/go-pinterest
+package: github.com/a-frony/go-pinterest
+homepage: https://github.com/a-frony/go-pinterest
 license: MIT
 owners:
-- name: Carrot Creative
-  email: hello@carrot.is
-  homepage: https://carrot.is
+- name: a-frony Creative
+  email: hello@a-frony.is
+  homepage: https://a-frony.is
 - name: Brandon Romano
   email: BrandonRRomano@gmail.com
 import:

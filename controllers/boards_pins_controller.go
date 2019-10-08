@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/BrandonRomano/wrecker"
-	"github.com/carrot/go-pinterest/models"
+	"github.com/a-frony/go-pinterest/models"
 )
 
 // BoardsPinsController is the controller that is responsible for all
